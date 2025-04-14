@@ -13,8 +13,6 @@ This is a Python app that lets users query Wikipedia articles and receive real-t
 - Wikipedia Library
 - dotenv for secure key management
 
-## Demo
-![demo gif or screenshot if available]
 
 ## Setup
 1. Clone the repo
